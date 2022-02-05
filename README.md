@@ -1,10 +1,18 @@
 ## Olá, eu sou o Gabriel! O **Cazarini**!!! 
 
 ### Tecnologias que estou estudando atualmente 💻
-* JavaScript
-* HTML
-* CSS
-* Python
+✅ JavaScript <br>
+✅ HTML <br>
+✅ CSS <br>
+✅ Python <br>
+✅ Git <br>
+✅ Scrum / Desenvolvimento Ágil <br>
+🔋 Java <br>
+🔋 React <br>
+🔋 Next.js <br>
+🔋 SQL <br>
+🔋 Node.js <br>
+🔋 TypeScript <br>
 
 ##
 
