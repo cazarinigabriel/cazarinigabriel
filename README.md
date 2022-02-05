@@ -13,7 +13,7 @@
 * Meu 2° projeto foi com JS, em 2021 <img align="right" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/RikudouSage/FirefoxTravoltaMemePatch/master/travolta.webp">
 * 80% das fotos do meu celular são dos meus cachorros 🐕
 * Gosto demais de viajar 🏖️
-* Sei arrumar avião também ✈️
+* Sei arrumar avião também... ✈️
 * Comodismo?? To fora!
 * Vamos? **Vamos!!!**
 
@@ -36,7 +36,7 @@
 </div>
   
   ##
- 
+<br>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/gabrielcazarini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gabrielcazarini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
